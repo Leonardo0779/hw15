@@ -21,3 +21,4 @@ public class Car extends Transport {
         System.out.println("Проверяем двигатель");
     }
 }
+

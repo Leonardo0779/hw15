@@ -7,6 +7,5 @@ public class Bicycle extends Transport {
 
     @Override
     public void service() {
-
     }
 }
